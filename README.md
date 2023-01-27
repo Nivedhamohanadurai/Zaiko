@@ -13,7 +13,7 @@ Under the Update Stock function, you are asked to enter a valid product ID and t
 To denote successful updates, the system displays the updated details of that product. Furthermore, if the user wants to add a new product in the database, an Add Stock option is available and they are also enabled to View Stock.
 
 #### Add Stock
-In the Add Stock function, the user is requested to enter all the details of the new product and the system check if the Product already exists, if all the data types are appropriate and the relevant notications are sent to the shopkeeper.
+In the Add Stock function, the user is requested to enter all the details of the new product and the system check if the Product already exists, if all the data types are appropriate and the relevant notifications are sent to the shopkeeper.
 
 #### View Stock
 This function shows the contents of the Stock Database.
