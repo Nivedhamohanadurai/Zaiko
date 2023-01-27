@@ -1,5 +1,5 @@
-# Zaiko
-An Inventory and Billing Management (Netbeans Application)
+# Zaiko (Netbeans Application)
+An Inventory and Billing Management 
 
 ## Functionalities
 ### Home Page
